@@ -1,0 +1,6 @@
+provider: generic
+url: 'https://tankionline.com/desktop/'
+publishAutoUpdate: true
+updaterCacheDirName: tankionline-updater
+publisherName:
+  - Ooo Alternativa Games
